@@ -2,7 +2,7 @@
   "name": "customer-management-backend",
   "version": "1.0.0",
   "type": "module",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
